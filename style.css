@@ -1,0 +1,52 @@
+body {
+  padding-top: 5rem;
+  background-color: #e2e2e2;
+}
+.navbar{
+	background-color: #00a65a !important;
+}
+
+.border-on{
+	border: 1px #000 solid;
+	background-color: white;
+	width: 100%;
+	height: 250px;
+}
+
+.img-size{
+	width: 100%;
+	height: 130px;
+}
+
+.text-center{
+	text-align: center;
+}
+.pl-15{
+	padding-left: 15px;
+}
+
+.ex-large{
+	font-size: 60px !important;
+	color:white;
+	text-align: center;
+}
+
+.mt-100{
+	margin-top: 100px;
+}
+
+.mt-25{
+	margin-top: 25px;
+}
+
+.text-white{
+	color: white;
+}
+
+.p-10{
+	padding: 10px;
+}
+
+.pull-right{
+	float: right !important;
+}

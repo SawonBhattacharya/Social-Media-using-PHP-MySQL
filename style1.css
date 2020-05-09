@@ -1,0 +1,24 @@
+.header{
+	background-color: #00a65a;
+	color: white;
+	padding-top: 2rem;
+	font-size: 20px;
+	margin: 0;
+	margin-bottom: 2rem;
+}
+body {
+  background-color: #e2e2e2;
+}
+.signup{
+	background-color: #36a420;
+}
+.container{
+	background-color: white;
+}
+.form{
+	text-align: center;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
